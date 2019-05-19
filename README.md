@@ -1,5 +1,5 @@
 # Sort-Methods
-Sistema que contem 9 métodos de ordenações implementados para fins acadêmicos, sendo eles: Bubble Sort, Selection Sort, Insertion Sort, Heap Sort, Merge Sort, Quick Sort, Count Sort, Bucket Sort e Radix Sort todos linguagem PHP
+Sistema que contem 9 métodos de ordenação implementados para fins acadêmicos, sendo eles: Bubble Sort, Selection Sort, Insertion Sort, Heap Sort, Merge Sort, Quick Sort, Count Sort, Bucket Sort e Radix Sort todos linguagem PHP
 
 Esse sistema foi desenvolvido para a entrega de um trabalho da matéria Pesquisa, Ordenação e Técnicas de armazenamento contendo os gráficos e comparações feitas em tempo de execução do programa, para tal desenvolvimento foram gerados vetores aleatórios a partir de uma estrutura de dados criada chamada “ControleArray”, essa estrutura contém dois métodos “montarArray” e “popularArray”. O método “montarArray” cria uma coleção de dados inteiros com o tamanho especificado em seu parâmetro e com todas as posições zeradas, já o método “popularArray” por sua vez ficou responsável por receber o array anteriormente criado e populá-lo com inteiros aleatórios gerados a partir de um random entre 1 e 999 para cada posição do array recebido.
 
